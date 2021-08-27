@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :books: Hi, I'm Tuan Huynh Minh. I'm currently learning informatics at HCMUS - University of Science :school:. I'm a competitive programmer, I love to participate in challenges, especially competitive programming and computer vision.
+- :books: Hi, I'm Tuan Huynh Minh. I'm currently learning informatics at HCMUS - University of Science :school:. I'm a competitive programmer, I love to participate in challenges, especially problem-solving and computer vision.
 - :computer: At the moment, I also study and research about reinforcement learning :robot: and capture the flag (CTF) :triangular_flag_on_post:. Preparing for my new field of competitive challenge.
 
 ### Contact :iphone:
