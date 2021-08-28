@@ -5,6 +5,8 @@
 ### Contact :iphone:
 Contact me via my linkedin [tuanhuynh](https://www.linkedin.com/in/tuanhuynh71ti/)
 
+![](kanna.gif)
+
 <!---
 huynhtuan17ti/huynhtuan17ti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
