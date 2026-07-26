@@ -1,5 +1,5 @@
-### Hi there 👋
-C++ is the best programming language.
+### Yo chat 👋
+C++ and large-scale systems. These must stick together
 
 > God in his heaven all's right with the world
 
